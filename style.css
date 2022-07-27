@@ -11,3 +11,13 @@
 .price {
     color: #289BDE;
 }
+
+.ready-height {
+    height: 300px;
+    /* margin-left: 100px; */
+}
+
+.ready-description {
+    color: #F4F4F4;
+    font-size: 16px;
+}
